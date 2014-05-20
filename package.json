@@ -1,0 +1,40 @@
+{
+  "name": "fudcon-cd",
+  "version": "0.1.0",
+  "description": "Presentation for FUDCon Beijing 2014: Consistent Development and Deployment",
+  "keywords": [
+    "ci",
+    "cd",
+    "paas",
+    "docker",
+    "lxc"
+  ],
+  "author": "Gerard Braad",
+  "license": "CC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gbraad/sites-fudcon-cd.git"
+  },
+  "main": "index.html",
+  "dependencies": {
+    "underscore": "~1.5.1",
+    "express": "~2.5.9",
+    "mustache": "~0.7.2",
+    "socket.io": "~0.9.13"
+  },
+  "devDependencies": {
+    "express": "~3.4.8",
+    "tiny-lr": "~0.0.5",
+    "connect-livereload": "~0.3.2",
+    "gulp": "~3.5.2",
+    "gulp-util": "~2.2.0",
+    "gulp-livereload": "~1.1.1"
+  },
+  "scripts": {
+    "test": "gulp",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
