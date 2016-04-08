@@ -2,7 +2,7 @@ pages:
   script:
   - apt-get update
   - apt-get install -y pandoc
-  - pandoc -w revealjs --template template/reveal-slides-template.html -o index.html ./md/cd.md
+  - pandoc -w revealjs --template template/reveal-slides-template.html --no-highlight -o index.html ./md/cd.md
   - mkdir .public
   - cp -r * .public
   - mv .public public
