@@ -1,4 +1,4 @@
 # Consistent Development
 
-Utilizing virtualization you can easily set up a self-hosted CD environment.
-
+Utilizing containers you can easily set up a self-hosted CI/CD environment,
+which can provide you with a 'consistent' development environment.
