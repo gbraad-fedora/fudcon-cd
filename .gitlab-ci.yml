@@ -1,5 +1,8 @@
 pages:
   script:
+  - apt-get install -y pandoc
+  - apt-get install -y phantomjs
+  - pandoc -w revealjs --template template/reveal-slides-template.html -o index.html ./md/cd.md
   - mkdir .public
   - cp -r * .public
   - mv .public public

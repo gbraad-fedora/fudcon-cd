@@ -1,157 +1,154 @@
 # 吉拉德
-## Gerard Braad
-## <span class="lightblue">me</span><span class="white">@gbraad</span><span class="orange">.nl</span>
+Gerard Braad  
 
 
-### <span class="orange">Software</span> / <span class="lightblue">Hardware</span> Engineer
 
-
-### <span class="orange">F/OSS</span> community and development
-
-
-### <span class="lightblue">Fedora</span> Project, FAmSCo
-
-
-### <span class="orange">Dutch</span> Ministry of Defence
-
-
-### <span class="lightblue">IT</span> Consultant at <b>Thought</b>Works
-
-
-### Teaching
+# Who am I?
+<span class="lightblue">me</span><span class="white">@gbraad</span><span class="orange">.nl</span>  
+<span class="orange">Software</span> / <span class="lightblue">Hardware</span> Engineer  
+<span class="orange">F/OSS</span> community and development  
+<span class="lightblue">Fedora</span> Project, FAmSCo  
+<span class="orange">Dutch</span> Ministry of Defence  
+<span class="lightblue">IT</span> Consultant at <b>Thought</b>Works  
+Teaching
 
 
 
 # CD
-
-## Consistent <span class="orange">Development</span> and <span class="lightblue">Deployment</span>
-#### you can easily setup a self-hosted CD environment
-
+Consistent <span class="orange">Development</span> and <span class="lightblue">Deployment</span>  
+you can easily setup a self-hosted CD environment
 
 
-## 2000
-## &nbsp;
+# 2000
+&nbsp;  
+&nbsp;
 
 
-## 2000
-## PHP
+# 2000
+PHP  
+&nbsp;
+
+# 2000
+PHPNuke  
+Wordpress
 
 
-## PHPNuke
+# 2000
+Drupal  
+&nbsp;
 
 
-## Wordpress
+# 2005
+&nbsp;  
+&nbsp;
 
 
-## Drupal
+# 2005
+...  
+&nbsp;
 
 
-## 2005
-## &nbsp;
+# 2005
+Ruby on Rails  
+&nbsp;
 
 
-## 2005
-## ...
+# 2005
+Django  
+&nbsp;
 
 
-## Ruby on Rails
+# 2005
+...  
+&nbsp;
 
 
-## Django
-
-
-## ...
-
-
-## Full-stack or haystack?
-
+# Full-stack or haystack?
 
 <img class="fill" src="./images/haystack.jpg" alt="Haystack engineering" />
 
 
-## DevOps
+# DevOps
 
 
-## PaaS
+# PaaS
+Platform-as-a-Service
 
 
-
-## <span class="orange">Consistent</span>
-## <span class="lightblue">Development</span>
-
-
-
-## <span class="orange">Continuous</span>
-## <span class="lightblue">Integration</span>
+# CD ?
+<span class="orange">Consistent</span>  
+<span class="lightblue">Development</span>
 
 
-## Continuous Integration
+# CI / CD
+<span class="orange">Continuous</span>  
+<span class="lightblue">Integration</span>
+
+
+# Continuous Integration
 ![CI](./images/ci.svg "Continuous Integration")
 
 
-## Shared repository
+# Shared repository
 ![CI](./images/ci.svg "Continuous Integration")
 
 
-## Automate the build
+# Automate the build
 ![CI](./images/ci.svg "Continuous Integration")
 
 
-## Build on integration machine
+# Build on integration machine
 ![CI](./images/ci.svg "Continuous Integration")
 
 
-## Self-testing
+# Self-testing
 ![CI](./images/ci.svg "Continuous Integration")
 
 
-## Easy access to deliverables
+# Easy access to deliverables
 ![CI](./images/ci.svg "Continuous Integration")
 
 
-## Test in a clone of production
+# Test in a clone of production
 ![CI](./images/ci.svg "Continuous Integration")
 
 
-## Keep the build fast
+# Keep the build fast
 ![CI](./images/ci.svg "Continuous Integration")
 
 
 
-## <span class="lightblue">How?</span>
-## &nbsp;
+# <span class="lightblue">How?</span>
+&nbsp;
 
 
-## Build-scripts
-## &nbsp;
+# Build-scripts
+&nbsp;
 
 
-## Build-scripts
-## ... to <span class="orange italic">automate</span> your builds
+# Build-scripts
+... to <span class="orange italic">automate</span> your builds
 
 
-## Build server
-## &nbsp;
+# Build server
+&nbsp;
 
 
-## Build server
-## ... to improve build <span class="orange italic">consistency</span>
+# Build server
+... to improve build <span class="orange italic">consistency</span>
 
 
-## Travis-CI
-
+# Travis-CI
 
 <img class="fill" src="./images/travis.png" alt="Travis" />
 
 
-## Jenkins
-
+# Jenkins
 
 <img class="fill" src="./images/jenkins.png" alt="Jenkins" />
 
 
-## Go.CD
-
+# Go.CD
 
 <img class="fill" src="./images/goenv.jpg" alt="Go pipelines" />
 
@@ -159,167 +156,164 @@
 <img class="fill" src="./images/gocd.jpg" alt="Go dependencies" />
 
 
-## Tests
-
-
-## Unit-tests
-
-
-## Behavioral tests 
+# Tests
+Unit-tests  
+Behavioral tests
 
 
 
-## <span class="orange">Demo</span>?
+# <span class="orange">Demo</span>?
 
 
 
-## Docker
-## &nbsp;
+# Docker
+&nbsp;
 
 
-## Docker
-## ... is lightweight virtualization
+# Docker
+... is lightweight virtualization
 
 
-## Docker
-## <span class="lightblue">operating system-level virtualization</span>
+# Docker
+<span class="lightblue">operating system-level virtualization</span>
 
 Note: provides a means to re-use system installed 
 libraries
 
 
-## <span class="lightblue">Containers</span>
-## &nbsp;
-## &nbsp;
+# <span class="lightblue">Containers</span>
+&nbsp;  
+&nbsp;
 
 
-## <span class="lightblue">Containers</span>
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide <span class="orange italic">process-isolation</span>
-## &nbsp;
+# <span class="lightblue">Containers</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide <span class="orange italic">process-isolation</span>  
+&nbsp;
 
 
-## <span class="lightblue">Containers</span>
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide <span class="orange italic">process-isolation</span>
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;possibility to <span class="orange italic">allocate resources</span>
+# <span class="lightblue">Containers</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide <span class="orange italic">process-isolation</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;possibility to <span class="orange italic">allocate resources</span>
 
 
+# Virtualization
 ![VM](./images/fullvirt.svg "Virtual Machine/Virtualization")
 
 
+# Docker
 ![Docker](./images/docker.svg "Docker")
 
 
-## <span class="lightblue">Containers</span>
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide <span class="orange italic">process-isolation</span>
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;possibility to <span class="orange italic">allocate resources</span>
+# <span class="lightblue">Containers</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide <span class="orange italic">process-isolation</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;possibility to <span class="orange italic">allocate resources</span>
 
 
-## <span class="lightblue">Containers</span>
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LXC
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cgroups
+# <span class="lightblue">Containers</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LXC  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cgroups
 
-Note: method for running multiple isolated
+Note: method for running multiple isolated  
 Linux systems (containers) on a single control host.
 
 
 
-## LXC
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# LXC
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## LXC
-## &nbsp;
-## <span class="lightblue center">operating system-level virtualization</span>
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# LXC
+&nbsp;  
+<span class="lightblue center">operating system-level virtualization</span>  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## LXC
-## &nbsp;
-## <span class="lightblue center">operating system-level virtualization</span>
-## method for running
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# LXC
+&nbsp;  
+<span class="lightblue center">operating system-level virtualization</span>  
+method for running  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## LXC
-## &nbsp;
-## <span class="lightblue center">operating system-level virtualization</span>
-## method for running
-## <span class="lightblue center">multiple isolated</span>
-## &nbsp;
-## &nbsp;
+# LXC
+&nbsp;  
+<span class="lightblue center">operating system-level virtualization</span>  
+method for running  
+<span class="lightblue center">multiple isolated</span>  
+&nbsp;  
+&nbsp;
 
 
-## LXC
-## &nbsp;
-## <span class="lightblue center">operating system-level virtualization</span>
-## method for running
-## <span class="lightblue center">multiple isolated</span>
-## Linux systems (<span class="orange italic">containers</span>)
-## on a single control host
-
-
-
-## cgroups
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-
-
-## cgroups
-## &nbsp;
-## kernel feature to <span class="orange italic">limit</span>, <span class="orange italic">account</span>
-## and <span class="orange italic">isolate</span>
-## &nbsp;
-## &nbsp;
-## &nbsp;
-
-
-## cgroups
-## &nbsp;
-## kernel feature to <span class="orange italic">limit</span>, <span class="orange italic">account</span>
-## and <span class="orange italic">isolate</span>
-## <span class="lightblue center">resource usage</span>
-## &nbsp;
-## &nbsp;
-
-
-## cgroups
-## &nbsp;
-## kernel feature to <span class="orange italic">limit</span>, <span class="orange italic">account</span>
-## and <span class="orange italic">isolate</span>
-## <span class="lightblue center">resource usage</span>
-## (CPU, memory, disk I/O, etc.) of
-## &nbsp;
-
-
-## cgroups
-## &nbsp;
-## kernel feature to <span class="orange italic">limit</span>, <span class="orange italic">account</span>
-## and <span class="orange italic">isolate</span>
-## <span class="lightblue center">resource usage</span>
-## (CPU, memory, disk I/O, etc.) of
-## <span class="lightblue center">process groups</span>
+# LXC
+&nbsp;  
+<span class="lightblue center">operating system-level virtualization</span>  
+method for running  
+<span class="lightblue center">multiple isolated</span>  
+Linux systems (<span class="orange italic">containers</span>)  
+on a single control host
 
 
 
-## <span class="orange">Demo</span>, please?
+# cgroups
+&nbsp;  
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## $ docker pull [image name]
+# cgroups
+&nbsp;  
+kernel feature to <span class="orange italic">limit</span>, <span class="orange italic">account</span>  
+and <span class="orange italic">isolate</span>  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
+
+# cgroups
+&nbsp;  
+kernel feature to <span class="orange italic">limit</span>, <span class="orange italic">account</span>  
+and <span class="orange italic">isolate</span>  
+<span class="lightblue center">resource usage</span>  
+&nbsp;  
+&nbsp;
+
+
+# cgroups
+&nbsp;  
+kernel feature to <span class="orange italic">limit</span>, <span class="orange italic">account</span>  
+and <span class="orange italic">isolate</span>  
+<span class="lightblue center">resource usage</span>  
+(CPU, memory, disk I/O, etc.) of  
+&nbsp;
+
+
+# cgroups
+&nbsp;  
+kernel feature to <span class="orange italic">limit</span>, <span class="orange italic">account</span>  
+and <span class="orange italic">isolate</span>  
+<span class="lightblue center">resource usage</span>  
+(CPU, memory, disk I/O, etc.) of  
+<span class="lightblue center">process groups</span>
+
+
+
+# <span class="orange">Demo</span>, please?
+
+
+# $ docker pull [image name]
 
 ```bash
 
@@ -332,8 +326,7 @@ ef52fb1fe610: Download complete
 ```
 
 
-## $ docker run [image name] [command]
-
+# $ docker run [image name] [command]
 
 ```bash
 
@@ -347,8 +340,7 @@ root@vps07:~# docker run fedora touch /tmp/bazinga
 ```
 
 
-## $ docker ps -a
-
+# $ docker ps -a
 
 ```bash
 
@@ -363,8 +355,7 @@ bd49f1bdce76        dokku/gauth:latest          /bin/bash -c '/start
 ```
 
 
-## $ docker diff [container id]
-
+# $ docker diff [container id]
 
 ```bash
 
@@ -378,81 +369,92 @@ root@vps07:~# docker rm 2120010fe35e
 ```
 
 
+# Docker layers
 ![Docker](./images/docker2.svg "Docker layers")
 
 
-## Why is this important?
+# Why is this important?
 
 
-## $ ./install.sh
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# Why is this important?
+$ ./install.sh  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## $ ./install.sh
-## [<span class="red">Failed</span>]
-## &nbsp;
-## &nbsp;
+# Why is this important?
+$ ./install.sh  
+[<span class="red">Failed</span>]  
+&nbsp;  
+&nbsp;
 
 
-## $ ./install.sh
-## [<span class="red">Failed</span>]
-## $ ./uninstall.sh
-## &nbsp;
+# Why is this important?
+$ ./install.sh  
+[<span class="red">Failed</span>]  
+$ ./uninstall.sh  
+&nbsp;
 
 
-## $ ./install.sh
-## [<span class="red">Failed</span>]
-## $ ./uninstall.sh
-## [<span class="red">Failed</span>]
+# Why is this important?
+$ ./install.sh  
+[<span class="red">Failed</span>]  
+$ ./uninstall.sh  
+[<span class="red">Failed</span>]
 
 
-## $ docker run ./install.sh
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# Why is this important?
+$ docker run ./install.sh  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## $ docker run ./install.sh
-## [<span class="red">Failed</span>]
-## &nbsp;
-## &nbsp;
+# Why is this important?
+$ docker run ./install.sh  
+[<span class="red">Failed</span>]  
+&nbsp;  
+&nbsp;
 
 
-## $ docker run ./install.sh
-## [<span class="red">Failed</span>]
-## $ docker run ./install.sh /opt
-## &nbsp;
+# Why is this important?
+$ docker run ./install.sh  
+[<span class="red">Failed</span>]  
+$ docker run ./install.sh /opt  
+&nbsp;
 
 
-## $ docker run ./install.sh
-## [<span class="red">Failed</span>]
-## $ docker run ./install.sh /opt
-## [  <span class="lightgreen">OK</span>  ]
+# Why is this important?
+$ docker run ./install.sh  
+[<span class="red">Failed</span>]  
+$ docker run ./install.sh /opt  
+[  <span class="lightgreen">OK</span>  ]
 
 
 
+# Drone.io
 <img class="fill" src="./images/drone-header.png" alt="Drone.io" />
 
 
-## Build-server
+# Build-server
 
 
-## Easy installation
-## &nbsp;
+# Easy installation
+&nbsp;
 
 
-## Easy installation
-## $ ./droned
+# Easy installation
+$ ./droned
 
 
 <img class="fill" src="./images/drone-add.png" alt="Drone add" />
 
 
-```bash
 
-$ cat .drone.yml
+# $ cat .drone.yml
+```
+
 image: bradrydzewski/node:0.10
 script:
   - npm -d install
@@ -464,211 +466,216 @@ notify:
 ```
 
 
-```bash
+# Add to project
+```
 
-$ git add .drone.yml
+$ git add .drone.yml
 $ git commit -m "Added .drone.yml"
 $ git push origin master
 ```
 
 
+# Building
 <img class="fill" src="./images/drone-current.png" alt="Drone building" />
 
 
+# Error
 <img class="fill" src="./images/drone-error.png" alt="Drone error" />
 
 
+# Dashboard
 <img class="fill" src="./images/drone-overview.png" alt="Drone dashboard" />
 
 
 
-## <span class="orange">Consistent</span>
-## <span class="lightblue">Deployment</span>
+# CD ?
+<span class="orange">Consistent</span>  
+<span class="lightblue">Deployment</span>
 
 
 
-## Continuous Delivery 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... or Deployment?
+# CI / CD
+Continuous Delivey  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... or Deployment?
 
 
-## Continuous Delivery 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... or Deployment?
+# Continuous Delivery 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... or Deployment?
 ![CI](./images/cd.svg "Continuous Delivery/Deployment")
 
 
-## Delivery != Deployment
+# Delivery != Deployment
 
 
-## 8 Principles
+# 8 Principles
 
 
-## Process of releasing must...
-## &nbsp;
-## &nbsp;
+# Process of releasing must...
+&nbsp;
+&nbsp;
 
 
-## Process of releasing must...
-## ... be repeatable
-## &nbsp;
+# Process of releasing must...
+... be repeatable
+&nbsp;
 
 
-## Process of releasing must...
-## ... be repeatable
-## &nbsp;&nbsp;&nbsp;&nbsp;and reliable
+# Process of releasing must...
+... be repeatable  
+&nbsp;&nbsp;&nbsp;&nbsp;and reliable
 
 
-## Automate everything 
+# Automate everything 
 
 Note: A manual deployment can never be described as repeatable and reliable (not if I’m doing it anyway!). You have to invest seriously in automating all the tasks you do repeatedly, and this tends to lead to reliability.
 
 
-## If somethings difficult or painful
-## &nbsp; 
+# If somethings difficult or painful
+&nbsp; 
 
 
-## If somethings difficult or painful
-## ... do it more often. 
+# If somethings difficult or painful
+... do it more often. 
 
 
-## Keep everything in source control
+# Keep everything in source control
 
 
-## Done means 'released'
+# Done means 'released'
 
 
-## Build quality in
+# Build quality in
 
 
-## Everybody responsible
-## for the release process
+# Everybody responsible
+for the release process
 
 
-## Improve continuously
+# Improve continuously
 
 
-## 4 Practices
+# 4 Practices
 
 
-## Build binaries only once
-## &nbsp;
+# Build binaries only once
+&nbsp;
 
 
-## Build binaries only once
-## ... and easily accessible
+# Build binaries only once
+... and easily accessible
 
 
-## Use the same mechanism to deploy
+# Use the same mechanism to deploy
 
 
-## Smoke test your deployment
+# Smoke test your deployment
 
 
-## If anything fails
-## &nbsp;
+# If anything fails
+&nbsp;
 
 
-## If anything fails
-## ... <span class="red">stop</span> the line!
+# If anything fails
+... <span class="red">stop</span> the line!
 
 
-## Continuous Delivery 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... or Deployment?
+# Continuous Delivery 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... or Deployment?
 ![CI](./images/cd.svg "Continuous Delivery/Deployment")
 
 
-## Continuous Deployment is the next step of Continuous Delivery
+# Continuous Deployment is the next step of Continuous Delivery
 
 Note: Every change that passes the automated tests is deployed to production automatically.
 
 
 
-## How to deploy?
-## &nbsp;
+# How to deploy?
+&nbsp;
 
 
-## How to deploy?
-## ... automate!
+# How to deploy?
+... automate!
 
 
-## PaaS
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# PaaS
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## PaaS
-## a cloud model to <span class="orange italic">deliver</span> a
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# PaaS
+a cloud model to <span class="orange italic">deliver</span> a  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## PaaS
-## a cloud model to <span class="orange italic">deliver</span> a
-## <span class="lightblue center">computing platform</span>
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# PaaS
+a cloud model to <span class="orange italic">deliver</span> a  
+<span class="lightblue center">computing platform</span>  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## PaaS
-## a cloud model to <span class="orange italic">deliver</span> a
-## <span class="lightblue center">computing platform</span>
-## typically <span class="orange italic">including</span>
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# PaaS
+a cloud model to <span class="orange italic">deliver</span> a  
+<span class="lightblue center">computing platform</span>  
+typically <span class="orange italic">including</span>  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## PaaS
-## a cloud model to <span class="orange italic">deliver</span> a
-## <span class="lightblue center">computing platform</span>
-## typically <span class="orange italic">including</span>
-## &nbsp;• <span class="lightblue">execution environment</span>
-## &nbsp;
-## &nbsp;
+# PaaS
+a cloud model to <span class="orange italic">deliver</span> a  
+<span class="lightblue center">computing platform</span>  
+typically <span class="orange italic">including</span>  
+&nbsp;• <span class="lightblue">execution environment</span>  
+&nbsp;  
+&nbsp;
 
 Note: a programming language execution environment.
 
 
-## PaaS
-## a cloud model to <span class="orange italic">deliver</span> a
-## <span class="lightblue center">computing platform</span>
-## typically <span class="orange italic">including</span>
-## &nbsp;• <span class="lightblue">execution environment</span>
-## &nbsp;• <span class="lightblue">database</span>
-## &nbsp;
+# PaaS
+a cloud model to <span class="orange italic">deliver</span> a  
+<span class="lightblue center">computing platform</span>  
+typically <span class="orange italic">including</span>  
+&nbsp;• <span class="lightblue">execution environment</span>  
+&nbsp;• <span class="lightblue">database</span>  
+&nbsp;
 
 
-## PaaS
-## a cloud model to <span class="orange italic">deliver</span> a
-## <span class="lightblue center">computing platform</span>
-## typically <span class="orange italic">including</span>
-## &nbsp;• <span class="lightblue">execution environment</span>
-## &nbsp;• <span class="lightblue">database</span>
-## &nbsp;• <span class="lightblue">web server</span>
+# PaaS
+a cloud model to <span class="orange italic">deliver</span> a  
+<span class="lightblue center">computing platform</span>  
+typically <span class="orange italic">including</span>  
+&nbsp;• <span class="lightblue">execution environment</span>  
+&nbsp;• <span class="lightblue">database</span>  
+&nbsp;• <span class="lightblue">web server</span>
 
 
-## Dokku
-## &nbsp;
+# Dokku
+&nbsp;
 
 
-## Dokku
-## ... a mini-Heroku
+# Dokku
+... a mini-Heroku
 
 
-## <span class="orange">Demo</span>
+# <span class="orange">Demo</span>
 
 
-```bash
-
-$ cat package.json
+# $ cat package.json
+```json
 {
   <snip>
   "dependencies": {
@@ -688,22 +695,23 @@ $ cat package.json
 ```
 
 
-```bash
-
-$ cat Procfile
+# $ cat procfile
+```
 web: npm start
 ```
 
 
+# run
 ```bash
 
-$ git remote add dokku dokku@apps.spotsnel.net:fudcon-cd
+$ git remote add dokku dokku@apps.spotsnel.net:fudcon-cd
 ```
 
 
+# push code
 ```bash
 
-$ git push dokku master
+$ git push dokku master
 Counting objects: 35, done.
 Delta compression using up to 4 threads.
 Compressing objects: 100% (32/32), done.
@@ -737,6 +745,7 @@ To dokku@dokku.spotsnel.net:fudcon-cd
 ```
 
 
+# container
 ```bash
 
 $ docker ps -a
@@ -747,17 +756,17 @@ fd9526d0ab18        progrium/buildstep:latest   /bin/bash -c 'mkdir    Exited (0
 ```
 
 
-## Continuous deployment?
-## &nbsp;
+# Continuous deployment?
+&nbsp;
 
 
-## Continuous deployment?
-## ... easy!
+# Continuous deployment?
+... easy!
 
 
+
+# $ cat .drone.yml
 ```
-
-$ cat .drone.yml
 image: bradrydzewski/node:0.10
 script:
   - npm -d install
@@ -772,87 +781,91 @@ deploy:
 ```
 
 
+# Drone
 <img class="fill" src="./images/drone-deploy1.png" alt="Drone automated deploy 1" />
 
 
+# Drone
 <img class="fill" src="./images/drone-deploy2.png" alt="Drone automated deploy 2" />
 
 
 
-## How does this work?
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# How does this work?
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## How does this work?
-## &nbsp;
-## Software <span class="orange italic">deployment</span> using
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# How does this work?
+&nbsp;  
+Software <span class="orange italic">deployment</span> using  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## How does this work?
-## &nbsp;
-## Software <span class="orange italic">deployment</span> using
-## <span class="lightblue center">git</span>
-## &nbsp;
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# How does this work?
+&nbsp;  
+Software <span class="orange italic">deployment</span> using  
+<span class="lightblue center">git</span>  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## How does this work?
-## &nbsp;
-## Software <span class="orange italic">deployment</span> using
-## <span class="lightblue center">git</span>
-## When code is <span class="orange italic">pushed</span> to repo,
-## &nbsp;
-## &nbsp;
-## &nbsp;
+# How does this work?
+&nbsp;  
+Software <span class="orange italic">deployment</span> using  
+<span class="lightblue center">git</span>  
+When code is <span class="orange italic">pushed</span> to repo,  
+&nbsp;  
+&nbsp;  
+&nbsp;
 
 
-## How does this work?
-## &nbsp;
-## Software <span class="orange italic">deployment</span> using
-## <span class="lightblue center">git</span>
-## When code is <span class="orange italic">pushed</span> to repo,
-## <span class="lightblue center">hooks</span>
-## &nbsp;
-## &nbsp;
+# How does this work?
+&nbsp;  
+Software <span class="orange italic">deployment</span> using  
+<span class="lightblue center">git</span>  
+When code is <span class="orange italic">pushed</span> to repo,  
+<span class="lightblue center">hooks</span>  
+&nbsp;  
+&nbsp;
 
 
-## How does this work?
-## &nbsp;
-## Software <span class="orange italic">deployment</span> using
-## <span class="lightblue center">git</span>
-## When code is <span class="orange italic">pushed</span> to repo,
-## <span class="lightblue center">hooks</span>
-## will perform <span class="orange italic">actions</span> on the
-## &nbsp;
+# How does this work?
+&nbsp;  
+Software <span class="orange italic">deployment</span> using  
+<span class="lightblue center">git</span>  
+When code is <span class="orange italic">pushed</span> to repo,  
+<span class="lightblue center">hooks</span>  
+will perform <span class="orange italic">actions</span> on the  
+&nbsp;
 
 
-## How does this work?
-## &nbsp;
-## Software <span class="orange italic">deployment</span> using
-## <span class="lightblue center">git</span>
-## When code is <span class="orange italic">pushed</span> to repo,
-## <span class="lightblue center">hooks</span>
-## will perform <span class="orange italic">actions</span> on the
-## <span class="lightblue center">ssh command / (post-update)</span>
+# How does this work?
+&nbsp;  
+Software <span class="orange italic">deployment</span> using  
+<span class="lightblue center">git</span>  
+When code is <span class="orange italic">pushed</span> to repo,  
+<span class="lightblue center">hooks</span>  
+will perform <span class="orange italic">actions</span> on the  
+<span class="lightblue center">ssh command / (post-update)</span>
 
 
 
-## About 100 lines of <span class="lightblue">bash</span>
+# And this all...
+is about 100 lines of <span class="lightblue">bash</span>
 
 
+# Part 1
 ```bash
 
 case "$1" in
@@ -872,6 +885,7 @@ case "$1" in
 ```
 
 
+# Part 2
 ```bash
 
   build)
@@ -890,6 +904,7 @@ case "$1" in
 ```
 
 
+# Part 3
 ```bash
 
   release)
@@ -905,6 +920,7 @@ case "$1" in
 ```
 
 
+# Part 4
 ```bash
 
   deploy)
@@ -930,6 +946,7 @@ case "$1" in
 ```
 
 
+# Part 5
 ```bash
   cleanup)
     # delete all non-running container
@@ -940,8 +957,7 @@ case "$1" in
 ```
 
 
-## nginx
-
+# nginx
 
 ```
 
@@ -965,38 +981,38 @@ server {
 ```
 
 
-## Containers
-## &nbsp;
+# Containers
+&nbsp;
 
 
-## Containers
-## ... as the <span class="lightblue">Delivery Unit</span>
+# Containers
+... as the <span class="lightblue">Delivery Unit</span>
 
 
-## More...
+# More...
 
-* Dokku - deployment
-* Fig - deployment
-* Flynn - deployment and orchestration
-* Deis - deployment and orchestration
-* Shipyard - monitoring
-* CoreOS - Linux distro around systemd and docker
-* Jenkins's docker plugin
-* gear<span class="red">d</span>
-
-
-## Still to do
-
-* No browser tests for acceptance tests?!
-* Unified containers
-* Container as deliverable
+  * Dokku - deployment
+  * Fig - deployment
+  * Flynn - deployment and orchestration
+  * Deis - deployment and orchestration
+  * Shipyard - monitoring
+  * CoreOS - Linux distro around systemd and docker
+  * Jenkins's docker plugin
+  * gear<span class="red">d</span>
 
 
-## Questions
+# Still to do
+
+  * No browser tests for acceptance tests?!
+  * Unified containers
+  * Container as deliverable
+
+
+# Questions
 
 
 
-# 吉拉德 
-## Gerard Braad
-## <span class="lightblue">me</span><span class="white">@gbraad</span><span class="orange">.nl</span>
-#### 微博/微信/Twitter: @gbraad
+# 吉拉德
+Gerard Braad  
+<span class="lightblue">me</span><span class="white">@gbraad</span><span class="orange">.nl</span>  
+微博/微信/Twitter: @gbraad
