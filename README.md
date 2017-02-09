@@ -9,6 +9,9 @@ which can provide you with a 'consistent' development environment.
 Within 1 hour the whole environment using docker, drone and dokku will be
 installed on stock VMs.
 
+This presentation has been recorded and has been published on YouTube:
+
+[!["You can easily setup a self-hosted CD environment"](https://img.youtube.com/vi/de3AWWolBAE/0.jpg)](https://www.youtube.com/watch?v=de3AWWolBAE)
 
 Authors
 -------
